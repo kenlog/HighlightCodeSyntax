@@ -6,6 +6,8 @@
 
 - For code snippets the plugin is able to highlight code syntax in more than 151 languages, including PHP, Javascript, Python, HTML and CSS...
 
+![highlightcodesyntax](https://user-images.githubusercontent.com/11728231/50305488-407abd00-0493-11e9-8061-5e800e2ccbee.png)
+
 Author
 ------------
 - Valentino Pesce

@@ -31,7 +31,7 @@ Note: Plugin folder is case-sensitive.
 
 Syntax highlighting for Markdown code
 ------------
-151 languages currently supported by Prism, with their corresponding alias, to use in place of xxxx
+151 languages currently supported by Prism, with their corresponding alias, to use in place of php
  
 ```diff
 ```php

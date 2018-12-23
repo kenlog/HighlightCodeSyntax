@@ -4,9 +4,9 @@
 
 # Highlight Code Syntax for kanboard
 
-- For code snippets the plugin is able to highlight code syntax in more than 151 languages, including PHP, Javascript, Python, HTML and CSS...
+- For code snippets the plugin is able to highlight code syntax in more than 151 languages, including PHP, Javascript, Python, Ruby, JSON, HTML and CSS...
 
-![highlightcodesyntax](https://user-images.githubusercontent.com/11728231/50305488-407abd00-0493-11e9-8061-5e800e2ccbee.png)
+![highlightcodesyntax](https://user-images.githubusercontent.com/11728231/50385386-2cbe9900-06d5-11e9-9a95-0988d795becc.jpg)
 
 Author
 ------------
@@ -34,20 +34,17 @@ Syntax highlighting for Markdown code
 151 languages currently supported by Prism, with their corresponding alias, to use in place of xxxx
  
 ```diff
--```xxxx
-class BaseClass {
-    function __construct() {
-        print "In BaseClass constructor\n";
+```php
+class SimpleClass
+{
+    // property declaration
+    public $var = 'a default value';
+
+    // method declaration
+    public function displayVar() {
+        echo $this->var;
     }
 }
--```
-+```php
-class BaseClass {
-    function __construct() {
-        print "In BaseClass constructor\n";
-    }
-}
-+```
 ```
 
 ### :star: If you like it, do not forget to give a star on GitHub!

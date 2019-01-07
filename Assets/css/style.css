@@ -6,27 +6,27 @@
  */
 
 .markdown pre {
-    background: #242729;
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #ddd;
-    overflow: auto;
-    overflow-wrap: initial;
-    color: #555
+    background: #242729!important;
+    padding: 10px!important;
+    border-radius: 5px!important;
+    border: 1px solid #ddd!important;
+    overflow: auto!important;
+    overflow-wrap: initial!important;
+    color: #555!important;
 }
 
 .markdown blockquote {
-    font-style: italic;
-    border-left: 3px solid #ddd;
-    padding-left: 10px;
-    margin-bottom: 10px;
-    margin-left: 20px
+    font-style: italic!important;
+    border-left: 3px solid #ddd!important;
+    padding-left: 10px!important;
+    margin-bottom: 10px!important;
+    margin-left: 20px!important;
 }
 
 .markdown img {
-    display: block;
-    max-width: 80%;
-    margin-top: 10px
+    display: block!important;
+    max-width: 80%!important;
+    margin-top: 10px!important;
 }
 
 ::selection{background:rgba(113,113,113,0.5);color:#ffffff}::-moz-selection{background:rgba(113,113,113,0.5);color:#ffffff}

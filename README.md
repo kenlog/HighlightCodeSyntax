@@ -11,6 +11,7 @@
 [![Downloads](https://img.shields.io/github/downloads/kenlog/HighlightCodeSyntax/total.svg)](https://github.com/kenlog/HighlightCodeSyntax/releases)
 
 # Highlight Code Syntax for kanboard
+<noscript><a href="https://liberapay.com/kenlog/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 - For code snippets the plugin is able to highlight code syntax in more than 151 languages, including PHP, Javascript, Python, Ruby, JSON, HTML and CSS...
 
